@@ -33,7 +33,7 @@ class Clock(QMainWindow):
 
         # setting start time of timer i.e 1 second
         timer.start(1000)
-
+        
         # setting window title
         self.setWindowTitle('Clock')
 
